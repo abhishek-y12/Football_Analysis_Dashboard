@@ -4,10 +4,10 @@ Project Overview
 This project is a Football Analysis Dashboard created using Power BI. It helps analyze football match data and understand how teams perform in attack and defence. The dashboard uses different charts and filters so users can easily explore team statistics.
 
 Tools Used -
-Power BI
-SQL
-Excel
-DAX
+Power BI,
+SQL,
+Exce,l
+DAX,
 Data Cleaning
 
 Home Page -
