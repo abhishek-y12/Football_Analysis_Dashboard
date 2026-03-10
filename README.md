@@ -6,7 +6,7 @@ This project is a Football Analysis Dashboard created using Power BI. It helps a
 Tools Used -
 Power BI,
 SQL,
-Exce,l
+Excel,
 DAX,
 Data Cleaning
 
